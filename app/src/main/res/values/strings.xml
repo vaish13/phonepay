@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">phonepay</string>
+    <string name="location">Location^</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="top_up">TOP-UP</string>
+    <string name="money_transfer">Money Transfer</string>
+    <string name="recharge_pay_bills">Recharge - Pay Bills</string>
+</resources>
